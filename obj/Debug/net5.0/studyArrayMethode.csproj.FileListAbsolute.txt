@@ -1,0 +1,16 @@
+D:\приложения\StudyApp1\studyArrayMethode\bin\Debug\net5.0\studyArrayMethode.exe
+D:\приложения\StudyApp1\studyArrayMethode\bin\Debug\net5.0\studyArrayMethode.deps.json
+D:\приложения\StudyApp1\studyArrayMethode\bin\Debug\net5.0\studyArrayMethode.runtimeconfig.json
+D:\приложения\StudyApp1\studyArrayMethode\bin\Debug\net5.0\studyArrayMethode.runtimeconfig.dev.json
+D:\приложения\StudyApp1\studyArrayMethode\bin\Debug\net5.0\studyArrayMethode.dll
+D:\приложения\StudyApp1\studyArrayMethode\bin\Debug\net5.0\ref\studyArrayMethode.dll
+D:\приложения\StudyApp1\studyArrayMethode\bin\Debug\net5.0\studyArrayMethode.pdb
+D:\приложения\StudyApp1\studyArrayMethode\obj\Debug\net5.0\studyArrayMethode.csproj.AssemblyReference.cache
+D:\приложения\StudyApp1\studyArrayMethode\obj\Debug\net5.0\studyArrayMethode.GeneratedMSBuildEditorConfig.editorconfig
+D:\приложения\StudyApp1\studyArrayMethode\obj\Debug\net5.0\studyArrayMethode.AssemblyInfoInputs.cache
+D:\приложения\StudyApp1\studyArrayMethode\obj\Debug\net5.0\studyArrayMethode.AssemblyInfo.cs
+D:\приложения\StudyApp1\studyArrayMethode\obj\Debug\net5.0\studyArrayMethode.csproj.CoreCompileInputs.cache
+D:\приложения\StudyApp1\studyArrayMethode\obj\Debug\net5.0\studyArrayMethode.dll
+D:\приложения\StudyApp1\studyArrayMethode\obj\Debug\net5.0\ref\studyArrayMethode.dll
+D:\приложения\StudyApp1\studyArrayMethode\obj\Debug\net5.0\studyArrayMethode.pdb
+D:\приложения\StudyApp1\studyArrayMethode\obj\Debug\net5.0\studyArrayMethode.genruntimeconfig.cache
